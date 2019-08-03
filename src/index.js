@@ -4,8 +4,8 @@ import lines from './lines';
 // INSTRUCTIONS:
 //
 // uncomment one at a time to
-// see each animation
+// see each example
 
-//spinningCube();
+spinningCube();
 
-lines();
+//lines();
