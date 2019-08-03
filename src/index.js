@@ -1,13 +1,11 @@
-import * as THREE from 'three';
-
-import SpinningCube from './spinning-cube';
+import spinningCube from './spinning-cube';
+import lines from './lines';
 
 // INSTRUCTIONS:
 //
 // uncomment one at a time to
 // see each animation
 
-// renders spinning cube
-SpinningCube();
+//spinningCube();
 
-//
+lines();
