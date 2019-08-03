@@ -1,4 +1,4 @@
-# Three.js Experimentation 🧪
+# Three.js Experiments 🧪
 
 ## [Three.js](https://threejs.org/) is a lightweight 3D and VR JavaScript library
 
